@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shopping Cart</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="available_items">Available Items</string>
+    <string name="apples">Apples</string>
+    <string name="fish">Fish</string>
+    <string name="peanut_butter">Peanut Butter</string>
+    <string name="chicken">Chicken</string>
+    <string name="pudding">Pudding</string>
+</resources>
